@@ -1,0 +1,3 @@
+# DataHelper MNIST
+
+Ce dossier contient le jeu de données en format de base tel qu'il peut être téléchargé depuis [ce site](http://yann.lecun.com/exdb/mnist/) pour les données test uniquement, ainsi qu'un script Python pour le transformer en fichier `.csv` plus gérable. Le script fonctionne de manière identique avec le jeu de donnée d'entrainement (il suffit alors de changer les chemins dans le script).
