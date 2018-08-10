@@ -1,6 +1,6 @@
 # Application UWP MNIST
 
-Ceci est une reprise et modification du code mis à disposition par Microsoft sur ce répertoire https://github.com/Microsoft/Windows-Machine-Learning/tree/master/Samples/UWP/MNIST/src.
+Ceci est une reprise et modification du code mis à disposition par Microsoft sur ce répertoire https://github.com/Microsoft/Windows-Machine-Learning/tree/master/Samples/MNIST/UWP/cs.
 
 Cette application UWP très simple utilise un modèle de machine learning pré-entrainer pour reconnaitre des chiffres manuscrits dessinés par l'utilisateur.
 
